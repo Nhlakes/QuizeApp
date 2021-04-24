@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css2?family=Crimson+Pro);
+h1{
+    font-family: 'Crimson Pro', serif;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-family: 'Crimson Pro', serif;
+    font-size: 2em;
+    color: aquamarine;
+}
+input[type=radio]{
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+p{
+    font-family: 'Crimson Pro', serif;
+}
+.quizcontainer
+{
+background-color: cadetblue;
+border-radius: 8px;
+width: 75%;
+margin: auto;
+margin-top: 190px;
+padding-top: 5px;
+position: relative;
+}
+.nextButton
+{
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: cornflowerblue;
+
+
+    color: white;
+    font-family: 'Crimson Pro', serif;
+    font-weight: bold;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+
+}
+.question
+{
+    font-family: 'Crimson Pro', serif;
+    font-size: 2em;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    background-color: rgb(114, 211, 174);
+    text-align: center;
+    color: rgb(103, 114, 121);
+}
+.QuizMessage
+{
+  font-family: 'Crimson Pro', serif;
+  background-color: aquamarine;
+  border-radius: 6px;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  padding: 2px;
+  color:cornflowerblue;
+}
+.results
+{
+  font-family: 'Crimson Pro', serif;
+  width: 30%;
+  height: auto;
+  border-radius: 6px;
+  background-color: cadetblue;
+  margin: auto;
+  margin-bottom: 35px;
+  text-align: center;
+  
+}
+.choicelist
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
